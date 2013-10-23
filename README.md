@@ -25,6 +25,10 @@ This tool highlights the starpages to make the original pagination more visible.
 
 This creates an output file named `sample-highlighted.pdf`.
 
+## License
+
+[MIT license](http://opensource.org/licenses/MIT).
+
 ## Credits
 
 See [this helpful answer to my Stack Overflow question](http://stackoverflow.com/questions/19414763/detect-and-alter-strings-in-pdfs/19551997).
