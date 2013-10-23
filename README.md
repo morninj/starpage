@@ -8,6 +8,10 @@ This tool highlights the starpages to make the original pagination more visible.
 
 ## Installation
 
+    # Clone this repository
+    $ git clone https://github.com/morninj/starpage.git
+    $ cd starpage
+
     # Install Perl modules
     $ sudo cpan install XML::Simple
     $ sudo cpan install CAM::PDF
