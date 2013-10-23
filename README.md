@@ -1,10 +1,8 @@
 # starpage
 
-A utility to highlight starpages in PDF files.
-
 Starpages are the page numbers from an original document. For instance, in 
 Westlaw-created PDFs of court opinions, starpages (e.g., `*123`) indicate 
-pagination in the original opinion.
+pagination in the original publication.
 
 This tool highlights the starpages to make the original pagination more visible.
 
